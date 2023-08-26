@@ -11,14 +11,17 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/adnanadrika" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:adnan@inyourdreams.id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋 I'am Adnan</h1>
 
 ###
 
@@ -26,7 +29,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently a Part-time SRE | Full-time Fatherhood<br><br>🌱 I’m currently learning DevOps | SRE | Cloud | NetSec<br><br>📫 How to reach me adnan@inyourdreams.id<br><br>📄 Find out about me adnan.inyourdreams.id</p>
+<p align="left">🔭 I’m currently a Part-time DevOps | SRE | Cloud | NetSec<br><br>🌱 I’m currently learning to be Full-time Fatherhood<br> <br>📫 How to reach me adnan@inyourdreams.id<br><br>📄 Find out about me adnan.inyourdreams.id</p>
 
 ###
 
