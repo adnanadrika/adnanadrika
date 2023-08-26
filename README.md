@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adnan Adrika</h1>
-<h3 align="center">your most dependable partner as DevOps | SRE | Cloud | NetSec</h3>
+<h1>Hi 👋, I'm Adnan Adrika</h1>
+<h3>your most dependable partner as DevOps | SRE | Cloud | NetSec</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanadrika&label=Profile%20views&color=0e75b6&style=flat" alt="adnanadrika" /> </p>
 
