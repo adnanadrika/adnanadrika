@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently a **Part-time DevOps | SRE | Cloud | NetSec**<br><br>🌱 I’m currently learning to be **Full-time Fatherhood**<br> <br>📫 How to reach me adnan@inyourdreams.id<br><br>📄 Find out about me adnan.inyourdreams.id</p>
+<p align="left">🔭 I’m currently a Part-time DevOps | SRE | Cloud | NetSec<br><br>🌱 I’m currently learning to be Full-time Fatherhood<br> <br>📫 How to reach me adnan@inyourdreams.id<br><br>📄 Find out about me adnan.inyourdreams.id</p>
 
 ###
 
