@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanadrika&label=Profile%20views&color=0e75b6&style=flat" alt="adnanadrika" /> </p>
 
-- 🔭 I’m currently working on **Telkomsigma**
+- 🔭 I’m currently **Part-time SRE | Full-time Fatherhood**
 
-- 🌱 I’m currently learning **for AWS Certified DevOps Engineer - Professional**
-
-- 💬 Ask me about **DevOps | SRE | Cloud | NetSec**
+- 🌱 I’m currently learning **DevOps | SRE | Cloud | NetSec**
 
 - 📫 How to reach me **adnan@inyourdreams.id**
 
-- 📄 Know about my experiences [adnan.inyourdreams.id](adnan.inyourdreams.id)
+- 📄 Find out about me [adnan.inyourdreams.id](adnan.inyourdreams.id)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
