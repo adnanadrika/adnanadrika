@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanadrika&label=Profile%20views&color=0e75b6&style=flat" alt="adnanadrika" /> </p>
 
-- 🔭 I’m currently **Part-time SRE | Full-time Fatherhood**
+- 🔭 I’m currently a **Part-time SRE | Full-time Fatherhood**
 
 - 🌱 I’m currently learning **DevOps | SRE | Cloud | NetSec**
 
