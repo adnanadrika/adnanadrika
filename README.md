@@ -69,6 +69,15 @@
 
 ###
 
+<h3 align="left">🔥   Certification :</h3>
+
+###
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
