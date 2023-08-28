@@ -69,7 +69,7 @@
 
 ###
 
-<h3 align="left">🔥   Certification :</h3>
+<h3 align="left">🏆   Certification :</h3>
 
 ###
 
@@ -120,7 +120,7 @@
 
 > 📦 57.1 kB Used in GitHub's Storage 
  > 
-> 🏆 37 Contributions in the Year 2023
+> 💼 37 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
