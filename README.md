@@ -35,7 +35,7 @@
   
 - 📫 How to reach me **adnan@inyourdreams.id**
 
-- 📄 Find out about me adnan.inyourdreams.id(https://adnan.inyourdreams.id)
+- 📄 Find out about me [adnan.inyourdreams.id](https://adnan.inyourdreams.id)
 
 ###
 
