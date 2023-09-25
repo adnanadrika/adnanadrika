@@ -80,6 +80,7 @@
 ###
 
 <!--START_SECTION:badges-->
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/7f704b96-bc2d-4eee-b5ce-d6072dd725b2 "AWS Certified Solutions Architect – Associate")
 [![Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)](https://images.credly.com/size/110x110/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png)](http://www.credly.com/badges/d7dc928d-5d23-4952-af81-cc9a0a1224d1 "Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)")
 [![CCNA](https://images.credly.com/size/110x110/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png)](http://www.credly.com/badges/00cf602a-a8a1-4b50-a561-ea62e8a90267 "CCNA")
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](http://www.credly.com/badges/0982ad5c-6765-497b-a7d4-5a433f05a9e3 "Microsoft Certified: Azure Administrator Associate")
