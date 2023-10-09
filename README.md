@@ -160,13 +160,14 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              █████████████████░░░░░░░░   66.66 % 
+PowerShell               0 secs              ████████░░░░░░░░░░░░░░░░░   33.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -180,7 +181,7 @@ CSS                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 09/10/2023 17:12:15 UTC
+ Last Updated on 09/10/2023 18:17:49 UTC
 <!--END_SECTION:waka-->
 
 ###
