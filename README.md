@@ -120,7 +120,7 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-106.8%20thousand%20lines%20of%20code-blue)
 
@@ -161,13 +161,14 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    8 mins              █████████████████████████   100.00 % 
+Other                    1 hr 22 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 13 mins        ██████████████████████░░░   89.85 % 
+Windows                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -181,7 +182,7 @@ CSS                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 06/02/2024 17:12:19 UTC
+ Last Updated on 06/02/2024 18:15:09 UTC
 <!--END_SECTION:waka-->
 
 ###
