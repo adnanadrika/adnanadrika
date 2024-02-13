@@ -161,13 +161,13 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -181,7 +181,7 @@ CSS                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 13/02/2024 17:11:47 UTC
+ Last Updated on 13/02/2024 18:18:05 UTC
 <!--END_SECTION:waka-->
 
 ###
